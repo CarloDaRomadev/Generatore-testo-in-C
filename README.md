@@ -1,5 +1,11 @@
 # Generatore di Testo in C
 
+[![C Language](https://img.shields.io/badge/language-C-00599C?logo=c)]()
+[![C11 Standard](https://img.shields.io/badge/standard-C11-A8B9CC)]()
+[![UTF-8 Support](https://img.shields.io/badge/encoding-UTF--8-008080)]()
+[![Memory Efficient](https://img.shields.io/badge/optimization-Memory%20Efficient-32CD32)]()
+[![Text Processing](https://img.shields.io/badge/application-Text%20Processing-1E90FF)]()
+
 ## Panoramica
 Progetto prodotto per il corso "Sistemi operativi (Modulo II)" in La sapienza. Anno accademico 2023/2024.
 
@@ -82,3 +88,5 @@ Task4("lotr.csv", 10, L"");
 ```
 
 Purtroppo il progetto non è completo e presenta alcuni bug consistenti.
+
+last update 15/06/2025
