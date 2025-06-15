@@ -1,8 +1,9 @@
 # Generatore di Testo in C
 
 ## Panoramica
+Questo progetto è stato prodotto per il corso "Sistemi operativi (Modulo II)" in La sapienza. Anno accademico 2023/2024
 
-Questo progetto implementa un generatore di testo basato su catene di Markov che può:
+Questo progetto implementa un generatore di testo che può:
 1. Analizzare un file di testo per costruire un modello statistico di sequenze di parole
 2. Generare nuovo testo basato sui modelli appresi
 3. Funzionare con testo codificato in UTF-8 in più lingue
