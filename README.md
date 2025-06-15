@@ -89,4 +89,4 @@ Task4("lotr.csv", 10, L"");
 
 Purtroppo il progetto non è completo e presenta alcuni bug consistenti.
 
-last update 15/06/2025
+<sub><i>last update 15/06/2025</i></sub>
